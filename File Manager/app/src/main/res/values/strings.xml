@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">File Manager</string>
+    <string name="title_start_choose_destination">Choose destination</string>
+</resources>
